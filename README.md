@@ -44,5 +44,3 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Tutanota&logo=tutanota&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tutanota logo"  />
 </div>
-
-###
